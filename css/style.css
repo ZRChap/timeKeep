@@ -1,0 +1,34 @@
+body {
+    background-image: url('https://wallpapercave.com/wp/MkUnb82.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.punch {
+    height: 300px;
+    width: auto;
+    text-align: center;
+    border-radius: 100%;
+    vertical-align: middle;
+    line-height: 300px;
+    
+}
+
+.hours {
+    line-height: 600px;
+    font-size: 300px;
+    color: white;
+}
+
+#datePicker input {
+    border-radius: 5%;
+    height: 100px;
+    width: 300px;
+    vertical-align: middle;
+    line-height: 100px;
+    background-color: rgb(222, 201, 224);
+}
+
+.track {
+    color: white;
+}
